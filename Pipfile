@@ -34,8 +34,6 @@ pytest-django = "*"
 pytest-sugar = "*"
 pytest-env = "*"
 pytest-xdist = "*"
-psycopg2 = "*"
-djangoql = "*"
 
 [dev-packages]
 ipython = "*"
